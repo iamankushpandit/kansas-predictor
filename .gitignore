@@ -72,3 +72,4 @@ public/
 .prettier*
 *.swp
 *.swo
+data/kansas_claims_10years.csv
